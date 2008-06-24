@@ -1,0 +1,1 @@
+require 'annotate_renders'
